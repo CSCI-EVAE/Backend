@@ -1,0 +1,35 @@
+# Compiled class file
+*.class
+
+*.properties
+.gradle/
+build/
+# Gradle wrapper jar binary
+!gradle/wrapper/gradle-wrapper.jar
+# Application binary
+*.jar
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+# IDE related
+.idea
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+
+
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+
+src/main/resources/application.properties
